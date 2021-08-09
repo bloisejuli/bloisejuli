@@ -1,9 +1,9 @@
 
-# Hola, soy Julieta 👋
+# Hola, soy Juli 👋
 
   
 ## 🚀 Sobre mi
-Soy reciente estudiante de Ingeniería Informática luego de un paso por Ingeniería Mecánica.
+Actualmente soy estudiante de Ingeniería Informática luego de un paso por Ingeniería Mecánica.
 
 Me gusta adquirir nuevos conocimientos en forma constante.
 
