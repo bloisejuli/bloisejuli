@@ -3,13 +3,14 @@
 
   
 ## 🚀 Sobre mi
-Actualmente soy estudiante de Ingeniería Informática luego de un paso por Ingeniería Mecánica.
+Soy estudiante de Ingeniería Informática luego de un paso por Ingeniería Mecánica.
 
 Me gusta adquirir nuevos conocimientos en forma constante.
 
 Acá van a encontrar todo lo que voy aprendiendo.  
 
-- :books: Actualmente estoy empezando un curso de Python en la UNSAM y en la Facultad de Ingeniería de la UBA voy a cursar Algoritmos y Programación II  
+- :green_book: Estoy realizando un curso de Python en la UNSAM.
+- :books: En la Facultad de Ingeniería de la UBA voy a cursar Algoritmos y Programación II  
 - :computer: Actualmente programo en C
 - :email: Mi mail es bloisejuli@gmail.com
 
