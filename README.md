@@ -10,7 +10,7 @@ Me gusta adquirir nuevos conocimientos en forma constante.
 Acá van a encontrar todo lo que voy aprendiendo.  
 
 - :green_book: Estoy realizando un curso de Python en la UNSAM.
-- :books: En la Facultad de Ingeniería de la UBA voy a cursar Algoritmos y Programación II  
+- :books: En la Facultad de Ingeniería de la UBA estoy cursando Algoritmos y Programación II  
 - :computer: Actualmente programo en C
 - :email: Mi mail es bloisejuli@gmail.com
 
