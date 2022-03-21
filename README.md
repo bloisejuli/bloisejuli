@@ -3,7 +3,7 @@
 
   
 ## 🚀 Sobre mi
-Soy estudiante de Ingeniería Informática de la UBA luego de un paso por Ingeniería Mecánica.
+Soy estudiante de Ingeniería Informática luego de un paso por Ingeniería Mecánica.
 
 Me gusta adquirir nuevos conocimientos en forma constante.
 
